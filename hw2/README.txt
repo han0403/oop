@@ -1,0 +1,15 @@
+姓名：王宥涵
+學號：408410013
+e-mail：joanne900403@gmail.com
+完成項目：
+I.
+1.isValid將收到的sumofDoubleEvenPlace跟sumOfOddPlace回傳值相加並除以10，若可整除則為合法卡號並回傳true，否則為非法卡號回傳false
+2.sumofDoubleEvenPlace將輸入的字串中偶數位數字乘以2再全部加總
+3.getDigit為sumofDoubleEvenPlace中，判斷數字是否為個位數，若非個位數字則將十位與個位相加再回傳
+4.sumOfOddPlace將輸入的字串中奇數位數字全部加總
+5.startsWith使用方法與作業題目有些許不同，只需傳入當前字串，判斷字串前面1~2位數值並回傳值，再在main中收到回傳值後判斷為何種信用卡
+II.
+1.fakeOne為隨機產生信用卡號的函數，依照傳入的brand參數判斷為何種信用卡並產出合法卡號
+2.利用clock_gettime來計算生成信用卡號之時間，單位為microseconds
+Bonus：
+使用隨機產生變數並加進string中產生信用卡
